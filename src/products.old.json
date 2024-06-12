@@ -1,0 +1,824 @@
+[
+  {
+    "name": "Колесо для грызунов металл 18 см",
+    "price": 615,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/ed5/ed594985d2b161db832062b24b8240c5.jpg",
+    "catalogId": 0
+  },
+  {
+    "name": "Колесо большое с креплением для хомяков FPI4603, 18,5х10 см",
+    "price": 715,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/c1c/c1ccc2b56449af44fb2665860c7768eb.jpg",
+    "catalogId": 0
+  },
+  {
+    "name": "Деревянное беговое колесо для грызунов, D=30см",
+    "price": 1935,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/bf6/bf6c750f7256e1309364b00dee26b53d.jpg",
+    "catalogId": 0
+  },
+  {
+    "name": "Колесо для грызунов, ø 33 cм, дерево",
+    "price": 4427,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/aad/aadab2eab6b6b3c9c0687d26e359be2d.jpg",
+    "catalogId": 0
+  },
+  {
+    "name": "Деревянное беговое колесо для грызунов, D=25см",
+    "price": 1515,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/5fd/5fd2f6fb00476df630556905af258cc6.jpg",
+    "catalogId": 0
+  },
+  {
+    "brand": "TEST",
+    "name": "Деревянное беговое колесо для грызунов, D=19см",
+    "price": 1209,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/5ce/5cea336663e4174773b8fc66d4b94e38.jpg",
+    "catalogId": 0
+  },
+
+  {
+    "name": "Лакомство для всех видов грызунов Овощная смесь банка 150г",
+    "price": 269,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/22e/22ed83463d9c33843dfb06978383b1a2.jpg",
+    "catalogId": 1
+  },
+  {
+    "name": "Лакомство для всеядных грызунов Мучной червь, 70 г",
+    "price": 319,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/d26/d265d66d1beffb8d9ef85a1224e651c4.jpg",
+    "catalogId": 1
+  },
+  {
+    "name": "палочки для хомяков, крыс, мышей и песчанок с фруктами и орехами 2х60г",
+    "price": 203,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/339/339cc3bdebf509df421877baebfbe8ab.jpg",
+    "catalogId": 1
+  },
+  {
+    "name": "Зерновые палочки для грызунов Ягоды 3шт по 30гр",
+    "price": 99,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/356/356898e28c65e8228a91a04e2c705d79.jpg",
+    "catalogId": 1
+  },
+  {
+    "name": "воздушные зерна лакомство для грызунов 100г",
+    "price": 153,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/acd/acd2e4033948ba59e340c20364c28b5c.jpg",
+    "catalogId": 1
+  },
+  {
+    "name": "Лакомство для грызунов Корень одуванчика, 40 гр",
+    "price": 199,
+    "icon": "https://4lapy.ru/resize/240x240/upload/iblock/dd4/dd4c169d1bc67651dc044f71de942bc7.jpg",
+    "catalogId": 1
+  },
+  {
+    "name": "бисквиты с морковью для хомяков, крыс, мышей и песчанок",
+    "price": 155,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/33d/33df1b99ea9e0eb0ea81b510118cb49d.jpg",
+    "catalogId": 1
+  },
+  {
+    "name": "Berry Mix ягодное ассорти",
+    "price": 317,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/a51/a51ca66b674721b9a3669c0b418acc22.jpg",
+    "catalogId": 1
+  },
+
+  {
+    "name": "Клетка для мелких грызунов 47x30x37 см розовая",
+    "price": 3699,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/4f3/4f341dd57af30f1b4c17f151bae5f60c.jpg",
+    "catalogId": 2
+  },
+  {
+    "name": "Клетка для грызунов Касита 80, 78,2x47,9x17,4 см",
+    "price": 7259,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/a2b/a2b8d931268a26cb663454fde9c7e31b.jpg",
+    "catalogId": 2
+  },
+  {
+    "name": "Клетка для мелких грызунов 58x34x41 см синяя",
+    "price": 4499,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/2ad/2adb4f85f3a7fc1bd62c8d45f2e8a54f.jpg",
+    "catalogId": 2
+  },
+  {
+    "name": "Клетка для мелких грызунов 35x28x37 см синяя",
+    "price": 2499,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/115/1159cfe86c54cf8f9c0ada6f72358c6f.jpg",
+    "catalogId": 2
+  },
+  {
+    "name": "Клетка для грызунов Casita 100",
+    "price": 9327,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/bdb/bdb12ca39799285d7c03e6e6cf73ed92.jpg",
+    "catalogId": 2
+  },
+  {
+    "name": "Клетка для мелких грызунов GRAZIA MINI 47х30х27 см с аксессуарами",
+    "price": 4699,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/f49/f4936e028e7a16e1ef93b2116b331012.jpg",
+    "catalogId": 2
+  },
+  {
+    "name": "Клетка для мышей и хомяков Karat 60, 59,5x39x52,5 см",
+    "price": 17297,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/609/609be99f73cb70ceace93b21305d2f06.jpg",
+    "catalogId": 2
+  },
+  {
+    "name": "Клетка для мелких грызунов 33x23x26 см синяя",
+    "price": 1499,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/620/620be89f99ee29e6ad8d9fb7e169e321.jpg",
+    "catalogId": 2
+  },
+
+  {
+    "name": "Миска керамическая для мелких животных Сердечко, 0,07 л",
+    "price": 229,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/7c6/7c67cc6e496ea33d7a37158c97f4b25c.jpg",
+    "catalogId": 3
+  },
+  {
+    "name": "Миска металлическая с держателем, 0,15л",
+    "price": 199,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/48e/48e151a208df82f983a40907e042f656.jpg",
+    "catalogId": 3
+  },
+  {
+    "name": "Миска для грызунов с рисунком 240мл 11см керамика",
+    "price": 349,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/d7b/d7bbb7f28bdf4a4992aec63cb39ea0e9.jpg",
+    "catalogId": 3
+  },
+  {
+    "name": "Миска для хомяков с рисунком 100м",
+    "price": 249,
+    "icon": "https://4lapy.ru/resize/240x240/upload/iblock/315/315856229308c786acfe589607b66a17.jpg",
+    "catalogId": 3
+  },
+  {
+    "name": "Миска для грызунов 10 см (200 мл) оранжевая",
+    "price": 229,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/5d4/5d4bb25ff37145a4b561ca62f15f3121.jpg",
+    "catalogId": 3
+  },
+  {
+    "name": "Миска для грызунов 9,5 см розовая",
+    "price": 209,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/4be/4be573d309301a0eac71d9bc64b49330.jpg",
+    "catalogId": 3
+  },
+  {
+    "name": "Миска керамическая для грызунов Листочки, 10х5,5 см, бело-зеленая",
+    "price": 359,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/89d/89dc2e84d82e9573459b1b3bec2debb8.jpg",
+    "catalogId": 3
+  },
+  {
+    "name": "Миска для грызунов 8,5 см розовая",
+    "price": 209,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/288/2887ea6d8fece7800db81ee376ad78e1.jpg",
+    "catalogId": 3
+  },
+
+  {
+    "name": "Лестница для грызунов, 7х55 см",
+    "price": 575,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/625/6257152167115f4d2c782d2621c43e1c.jpg",
+    "catalogId": 4
+  },
+  {
+    "name": "Мостик гибкий, 17х28 см",
+    "price": 309,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/d4f/d4fb32c37b995679d854f5b1a5ab6ab6.jpg",
+    "catalogId": 4
+  },
+  {
+    "name": "Мостик подвесной для хомяков, 10х20 см",
+    "price": 309,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/487/487d12d532ca42301c68c1f6183d6432.jpg",
+    "catalogId": 4
+  },
+  {
+    "name": "Лежак для грызунов подвесной мост с гамаком нейлон 17х15х22см",
+    "price": 1177,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/6fc/6fc84612df783df644c2946863581002.jpg",
+    "catalogId": 4
+  },
+  {
+    "name": "Лесенка для хомяков Радуга, 14x8x7 см",
+    "price": 289,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/5bd/5bdc09746553eb1fa0c0a9e5e9001216.jpg",
+    "catalogId": 4
+  },
+  {
+    "name": "Лесенка из спилов для птиц и грызунов 5 ступенек, 30 см",
+    "price": 399,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/fea/feacf01763d22b3a074e1fb015689a25.jpg",
+    "catalogId": 4
+  },
+  {
+    "name": "Игрушка для грызунов Барабан дерево 3,5х5 см",
+    "price": 203,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/d70/d702e69147737bdfdb13c26c134f7312.jpg",
+    "catalogId": 4
+  },
+  {
+    "name": "Качели деревянные на подвесе для хомяков, 10,5x7x2 см",
+    "price": 279,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/844/844af5368909a5ff8ef30d00618e14a9.jpg",
+    "catalogId": 4
+  },
+
+  {
+    "name": "Игрушка для собак Канат 40 см, серый",
+    "price": 239,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/ffd/ffde4951393b270e50abbc8383b0e712.jpg",
+    "catalogId": 5
+  },
+  {
+    "name": "Игрушка для собак Косточка хрустящая, 16 см",
+    "price": 699,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/aa1/aa165b4180c4da5d3bf2ef721c164b26.jpg",
+    "catalogId": 5
+  },
+  {
+    "name": "Игрушка Косточка для собак с ароматом курицы, 10,5 см",
+    "price": 179,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/2d4/2d47e60e2db2cd639f0d3a37b20a9250.jpg",
+    "catalogId": 5
+  },
+  {
+    "name": "Игрушка с пищалкой для собак Мяч Луна, 7,5 см",
+    "price": 379,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/501/5016909949f6a705aec5e69dd4ea3504.jpg",
+    "catalogId": 5
+  },
+  {
+    "name": "Игрушка для собак Кольцо среднее, 17 см",
+    "price": 499,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/35f/35ff379f669b9c5da1a4287ba08949d7.jpg",
+    "catalogId": 5
+  },
+  {
+    "name": "Игрушка для собак Веревка с узлом 60 см",
+    "price": 687,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/1ad/1adb995c4bc68aee4c2826124b0d18cf.jpg",
+    "catalogId": 5
+  },
+  {
+    "name": "Игрушка для собак Фрисби, 21х2,5 см",
+    "price": 799,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/753/753c5106718070591adb5b7a26b37974.jpg",
+    "catalogId": 5
+  },
+  {
+    "name": "Игрушка для собак Кость для лакомств, 10 см",
+    "price": 379,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/45c/45cbd6312d412718594bf58c20c4ddda.jpg",
+    "catalogId": 5
+  },
+
+  {
+    "name": "Лежак круглый 40 см мята",
+    "price": 1399,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/92a/92a92e83bc78c6b33cf7b0c83e849030.jpg",
+    "catalogId": 6
+  },
+  {
+    "name": "Лежак Рогожка для кошек и собак крупных пород 100х80 см, серый",
+    "price": 4399,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/75a/75af2dab8539646940f028137c98f018.jpg",
+    "catalogId": 6
+  },
+  {
+    "name": "Лежак 60х50х18 см с лапками серый",
+    "price": 1999,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/2d2/2d23a1b85253437b5a72e38f775539a5.jpg",
+    "catalogId": 6
+  },
+  {
+    "name": "Домик 45х46х26 см розовый",
+    "price": 1499,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/cad/cad6193ccdd34cbb1114ffd4307c3b88.jpg",
+    "catalogId": 6
+  },
+  {
+    "name": "Домик-будка для кошек и собак мелких пород, 35х35х41 см",
+    "price": 1299,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/357/3573c681fb585125d769be57e40b305f.jpg",
+    "catalogId": 6
+  },
+  {
+    "name": "Лежанка для собак и кошек средних и крупных пород Пухлик, 70х55х20 см, серо-фиолетовая",
+    "price": 2399,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/d17/d17449db71c279179dd58fc845e9e26c.jpg",
+    "catalogId": 6
+  },
+  {
+    "name": "Лежак круглый поплин 40х40х12 см, бежевый",
+    "price": 659,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/eb4/eb43358e7d2993e8cb50281d4d92fbf0.jpg",
+    "catalogId": 6
+  },
+  {
+    "name": "Дом для кошек и собак, 50x50х34 см, серый",
+    "price": 3299,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/861/8616c7c4d1bc1a8baf727445829a4129.jpg",
+    "catalogId": 6
+  },
+
+  {
+    "name": "Adult Classic Корм сухой для собак, с рыбой, 4 кг",
+    "price": 2129,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/53b/53be190d4bd52689241e84be1a79be4d.jpg",
+    "catalogId": 7
+  },
+  {
+    "name": "Grain Free Just Сухой корм беззерновой для собак, с лососем и морепродуктами, 14 кг",
+    "price": 9299,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/492/492dba68d2719c93f02954e5f3b7fdfa.jpg",
+    "catalogId": 7
+  },
+  {
+    "name": "Adult Grain Free Сухой корм беззерновой для взрослых собак, с ягненком, 3 кг",
+    "price": 2689,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/4dc/4dc01878665264f8035b50a138b12874.jpg",
+    "catalogId": 7
+  },
+  {
+    "name": "Лакомство тренировочное для собак Сердечки с говядиной, 90 г",
+    "price": 140,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/0bb/0bb1206b90e1327a87c729f68e91d6ce.jpg",
+    "catalogId": 7
+  },
+  {
+    "name": "Для собак миниатюрных пород косточки из индейки",
+    "price": 283,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/224/224d501e057071bd458fce40d58b45d5.jpg",
+    "catalogId": 7
+  },
+  {
+    "name": "Для собак мясные колбаски из говядины",
+    "price": 189,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/42c/42c6cf3cd04c3f81c39dd529e29f9034.jpg",
+    "catalogId": 7
+  },
+  {
+    "name": "Лакомство для собак Мясные колбаски, говядина, 33г (3шт в упаковке)",
+    "price": 219,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/753/7533fd0efbf00c495963f08015a1b87f.jpg",
+    "catalogId": 7
+  },
+  {
+    "name": "Лакомство для собак нарезка Филейная с говядиной и индейкой 80г",
+    "price": 103,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/22e/22ed87fa7b832c4bd00f6aa117ef8814.jpg",
+    "catalogId": 7
+  },
+
+  {
+    "name": "Vet Life Gastrointestinal диетический влажный корм для собак при заболеваниях ЖКТ, 300г",
+    "price": 529,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/965/9657b470f4701fd6a61161530969070b.png",
+    "catalogId": 8
+  },
+  {
+    "name": "Prescription Diet i/d Влажный диетический корм (консервы) для собак при расстройствах пищеварения, жкт, с индейкой, 360 гр.",
+    "price": 555,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/dd9/dd975984d51f94cc8ea0ba6d5e3883a3.jpg",
+    "catalogId": 8
+  },
+  {
+    "name": "Gastrointestinal GI25 Сухой корм для собак при нарушении пищеварения, 2 кг",
+    "price": 2947,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/e2d/e2d0205468eb45383447fb084d13201a.jpg",
+    "catalogId": 8
+  },
+  {
+    "name": "Adult Care Dermatologic Сухой корм для собак всех пород склонных к дерматологической чувствительности, с лососем, 3 кг",
+    "price": 3299,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/f95/f95041e0e3fe2cad60e54c2de55cce41.jpg",
+    "catalogId": 8
+  },
+  {
+    "name": "Prescription Diet i/d Low Fat Сухой диетический корм для собак при расстройствах пищеварения с низким содержанием жира, с курицей, 1,5 кг",
+    "price": 2999,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/653/653dcbe9367dbb18119202bca605e6df.jpg",
+    "catalogId": 8
+  },
+  {
+    "name": "Vet Life Hypoallergenic диетический влажный корм для собак, гипоаллергенный, с уткой и картофелем, 300г",
+    "price": 529,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/1ef/1eff378d59a0d78304f6dcc9375339b9.png",
+    "catalogId": 8
+  },
+  {
+    "name": "Prescription Diet Metabolic Сухой диетический корм для собак, способствующий снижению и контролю веса, с курицей, 1,5 кг",
+    "price": 3095,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/f8b/f8b408a1b81ba3774df56402df6d75de.jpg",
+    "catalogId": 8
+  },
+  {
+    "name": "Urinary S/O LP18 Сухой корм при заболеваниях дистального отдела мочевыделительной системы у собак, 2 кг",
+    "price": 2887,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/145/145617ed3cf52b2a12b529a6c60058f6.jpg",
+    "catalogId": 8
+  },
+
+  {
+    "name": "Grandmix Pappagalli Корм для крупных попугаев, 600 г",
+    "price": 719,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/064/0647cab9d200ab6f554ea580a089f3e0.jpg",
+    "catalogId": 9
+  },
+  {
+    "name": "Grandmix Parrocchetti Корм для средних попугаев, 850 г",
+    "price": 715,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/f0f/f0f868cbe43e8907e94f52efc3ba4094.jpg",
+    "catalogId": 9
+  },
+  {
+    "name": "Корм для средних попугаев, основной рацион, 1кг",
+    "price": 311,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/6b7/6b74e74100f07e3be3c2527a6a674493.jpg",
+    "catalogId": 9
+  },
+  {
+    "name": "Grandmix Cocorite Корм для волнистых попугаев, 1 кг",
+    "price": 645,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/b22/b22027ebfb338ad1ba7af9a0ba44f72c.jpg",
+    "catalogId": 9
+  },
+  {
+    "name": "Sunmix Parrocchetti корм комплексный/основной для средних попугаев, 750г",
+    "price": 529,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/890/89073118d01432ca7bb2d43d50c73580.jpg",
+    "catalogId": 9
+  },
+  {
+    "name": "Parrocchetti African Корм для средних попугаев, 800 г",
+    "price": 895,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/4ab/4ab8409d93a6390080be4865f602bb68.jpg",
+    "catalogId": 9
+  },
+  {
+    "name": "Корм для средних попугаев, 800 гр.",
+    "price": 299,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/ece/ecec41afeb2fda67ecc5176c83c7b1fd.jpg",
+    "catalogId": 9
+  },
+  {
+    "name": "Корм для лесных птиц 500 г",
+    "price": 216,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/da5/da5ea85cdceb3306ddcc24a62c2a21ab.jpg",
+    "catalogId": 9
+  },
+
+  {
+    "name": "Лакомство-игрушка Кедровая шишка для птиц",
+    "price": 279,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/22a/22af66529a126f16120922da04e6f432.jpg",
+    "catalogId": 10
+  },
+  {
+    "name": "Лакомство для всех видов птиц Абиссинский нуг 250 г",
+    "price": 259,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/581/58102e6bb823965d6d8d3b27dcd7c658.jpg",
+    "catalogId": 10
+  },
+  {
+    "name": "Арахис в сетке для подкармливания и привлечения птиц, 150г",
+    "price": 123,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/472/47261a00d3af56bbb31cfeb8041c9924.jpg",
+    "catalogId": 10
+  },
+  {
+    "name": "Бисквиты для птиц с лесными ягодами 5х7 г",
+    "price": 132,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/19d/19d2d7b95ebb318161c599d9a7eb10a7.jpg",
+    "catalogId": 10
+  },
+  {
+    "name": "Biscottelli Бисквиты для птиц с яблоком, 35 г",
+    "price": 155,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/5fd/5fd97038124b5c271db58377efc8e4d7.jpg",
+    "catalogId": 10
+  },
+  {
+    "name": "Лакомство для всех видов птиц Сенегальское просо в колосьях 100 г",
+    "price": 197,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/6ed/6edb819419d91dc02c347d963dd79f1b.jpg",
+    "catalogId": 10
+  },
+  {
+    "name": "Тотал витаминный комплекс с коэнзимом Q10 для кроликов, птиц и грызунов, 10 мл",
+    "price": 227,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/039/03967295deb595c556c2d080e2e3296b.jpg",
+    "catalogId": 10
+  },
+  {
+    "name": "Камень минеральный для попугаев, 14 гр",
+    "price": 35,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/8e3/8e34f90f451aaf7986294a5d6192cdb0.jpg",
+    "catalogId": 10
+  },
+
+  {
+    "name": "Миска для птиц металлическая с крепежом 300 мл",
+    "price": 219,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/1e3/1e3f290ec98dc919c17dbb5bb9b49eb0.jpg",
+    "catalogId": 11
+  },
+  {
+    "name": "Миска для птиц металлическая цветная с крепежом 150мл",
+    "price": 229,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/c56/c56d1832b860efc8ae57d8b7b96c324a.jpg",
+    "catalogId": 11
+  },
+  {
+    "name": "Миска для птиц металл с крепежом 300мл",
+    "price": 199,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/de3/de3fe106039a98f8db8f3a655e6a777b.JPG",
+    "catalogId": 11
+  },
+  {
+    "name": "Поилка для птиц 200 мл",
+    "price": 125,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/426/426206ccf977638feacb71e39015205d.jpg",
+    "catalogId": 11
+  },
+  {
+    "name": "Поилка с широким носиком для малых и средних птиц Silver special 4560, 200 мл",
+    "price": 585,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/ee8/ee8c67c5a42162e1f14df693223f01f0.jpg",
+    "catalogId": 11
+  },
+  {
+    "name": "Поилка универсальная для малых птиц Универ 4550, 0,05 л",
+    "price": 277,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/2f7/2f7063b69fd75a83d21e0e72205350bb.jpg",
+    "catalogId": 11
+  },
+  {
+    "name": "Купалка для птиц 125*105*110мм",
+    "price": 163,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/c89/c8990ef4f10e2230ce120b38e2906739.jpg",
+    "catalogId": 11
+  },
+  {
+    "name": "держатель для фруктов металлический 20 см",
+    "price": 315,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/15f/15f1e9a045c6cfb12ffd62949350acb7.jpg",
+    "catalogId": 11
+  },
+
+  {
+    "name": "Забавные качели для средних попугаев, 16х15х4см",
+    "price": 345,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/5e0/5e0bf485e41b0cb99c8e47544f0f008a.jpg",
+    "catalogId": 12
+  },
+  {
+    "name": "Жердочка для птиц 19 см",
+    "price": 179,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/de2/de29aea92008145053ea5d590d1dc5db.jpg",
+    "catalogId": 12
+  },
+  {
+    "name": "Игрушка для птиц Зеркало с колокольчиком 120*d60мм",
+    "price": 125,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/bcb/bcb928a94061f717c5b4246993ebf7b4.jpg",
+    "catalogId": 12
+  },
+  {
+    "name": "Игрушка для птиц деревянная Трапеция",
+    "price": 219,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/109/109b133cf3266738bbbc977f779c711e.jpg",
+    "catalogId": 12
+  },
+  {
+    "name": "Полочка навесная для грызунов или птиц D 10см",
+    "price": 239,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/1f2/1f2b972cf37ae87b6250ba2c14e7f25d.jpg",
+    "catalogId": 12
+  },
+  {
+    "name": "Игрушка для птиц Подвижная лесенка 7х17 см",
+    "price": 279,
+    "icon": "https://4lapy.ru/resize/240x240/upload/iblock/981/98196e078dd62d280e1a95e72dd369ab.jpg",
+    "catalogId": 12
+  },
+  {
+    "name": "Игровая площадка для птиц 35х27х30 см",
+    "price": 1785,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/551/5510e27f48b07894c37735d8be0796b7.jpg",
+    "catalogId": 12
+  },
+  {
+    "name": "Игрушка для птиц Золотая клетка 160*55мм",
+    "price": 189,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/e3b/e3b7e3d8fb898ba75c96b825116d0f12.jpg",
+    "catalogId": 12
+  },
+
+  {
+    "name": "Игрушка для кошек Интерактивная Мышка 9 см",
+    "price": 1129,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/679/679725c19ab772280121f9551ad55d74.jpg",
+    "catalogId": 13
+  },
+  {
+    "name": "Игрушка для кошек Рыба форель с двигающимся хвостом 30 см",
+    "price": 899,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/2f8/2f8a9562e20f5a24214e80425dfcc570.jpg",
+    "catalogId": 13
+  },
+  {
+    "name": "Игрушка для кошек Мышь натуральный мех, разноцветная 5 см (3 шт)",
+    "price": 219,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/755/755ae7fb9ee5ad689a029876aec0fbc8.jpg",
+    "catalogId": 13
+  },
+  {
+    "name": "Игрушка-когтеточка для кошек Шар с мышкой, джут, 8 см",
+    "price": 269,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/bbc/bbc6dd9ea0b4dd97c380784a9247b41e.jpg",
+    "catalogId": 13
+  },
+  {
+    "name": "Игровой трек для кошек Стадион с шариками и когтеточкой из каната, 48х27х3,5 см",
+    "price": 1469,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/a8f/a8f5dce96d65dbdb6bc2f6c56cfbdc40.jpg",
+    "catalogId": 13
+  },
+  {
+    "name": "Игрушка для кошек Мяч интерактивный, 7 см",
+    "price": 749,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/72c/72c39615974281431467896d0eb52479.jpg",
+    "catalogId": 13
+  },
+  {
+    "name": "Игрушка для кошек Мышка с электронным чипом",
+    "price": 439,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/eec/eec3eddca8e306da5cfd0f71827fa87a.jpg",
+    "catalogId": 13
+  },
+  {
+    "name": "Игрушка для кошек Мататаби Палочка с двумя мячами 22 см",
+    "price": 199,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/4ae/4ae265fc01a4f51756161c586beebd34.jpg",
+    "catalogId": 13
+  },
+
+  {
+    "name": "Author Сухой корм беззерновой для стерилизованных кошек, со свежим мясом курицы, 1,5 кг",
+    "price": 1999,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/b75/b752334c9b30355d1cf1cbebfdfcf659.jpg",
+    "catalogId": 14
+  },
+  {
+    "name": "Лакомство для стерилизованных кошек Хрустящие подушечки с начинкой, утка и клюква, 60 гр",
+    "price": 263,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/d18/d18927ec36d64510e738ae729ecef6f3.jpg",
+    "catalogId": 14
+  },
+  {
+    "name": "Лакомства для кошек Соломка утиная нежная",
+    "price": 223,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/af3/af3533eb485fd45dd1fc8a985e38357f.jpg",
+    "catalogId": 14
+  },
+  {
+    "name": "Крем-суп для кошек, с тунцом и креветками, 6х15 гр",
+    "price": 249,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/201/201a832f6cabce4610ee50c526bf108d.jpg",
+    "catalogId": 14
+  },
+  {
+    "name": "Лакомство-пюре Ассорти с морепродуктами (20x14 гр.) для кошек Churu",
+    "price": 1299,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/b06/b06db994971786a850304a21b3379f85.jpg",
+    "catalogId": 14
+  },
+  {
+    "name": "Adult Sterilized Classic Сухой корм для стерилизованных кошек, с курицей, 4 кг",
+    "price": 2629 ,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/3e0/3e0b0f3facf585624346caf704dc2e00.jpg",
+    "catalogId": 14
+  },
+  {
+    "name": "Лакомство для чистки зубов для кошек Мягкие палочки, кролик и шалфей, 3 шт. в упаковке",
+    "price": 159 ,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/60c/60cb72f968b36ba245909b0ef0e45138.jpg",
+    "catalogId": 14
+  },
+  {
+    "name": "Лакомство для кошек, снеки для ухода за зубами, 50 гр",
+    "price": 129 ,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/eac/eac44a8d50a787c5168c9bd55e39d565.jpg",
+    "catalogId": 14
+  },
+
+  {
+    "name": "Дом-когтеточка (60х40х70 см) с площадкой для кошек, серая",
+    "price": 10299 ,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/2a1/2a1da124f884cef8182ba3e1b18dac21.jpg",
+    "catalogId": 15
+  },
+  {
+    "name": "Дом-когтеточка Provance (36x36x70 см) круглый с тремя входами и шариком для игр для кошек, бежевый",
+    "price": 8799,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/8a1/8a1f4af5087ed86a72a01fe5d9c298e4.jpg",
+    "catalogId": 15
+  },
+  {
+    "name": "Лежак Рогожка для кошек и собак средних пород 70х60 см, серый",
+    "price": 2899,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/7f0/7f08b90d8cab81309379b24cbe6dc4ba.jpg",
+    "catalogId": 15
+  },
+  {
+    "name": "Дом-когтеточка (38х28х30 см) для кошек с игрушкой, коричневая",
+    "price": 3699,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/db7/db72062b67f2d24c8a42090f449174d3.jpg",
+    "catalogId": 15
+  },
+  {
+    "name": "Лежак-тоннель Эспен для кошек и собак мелких пород, 37x45 см, бежевый",
+    "price": 2199,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/4cc/4cc0d8b832019abd585110fd579bfcfd.jpg",
+    "catalogId": 15
+  },
+  {
+    "name": "Дом с ушками для кошек и собак мелких пород, 43х35х35 см, серый",
+    "price": 3199,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/6cc/6ccb0e1edc1518586f38c05e1e6aefe5.jpg",
+    "catalogId": 15
+  },
+  {
+    "name": "Домик мягкий Тоннель для кошек и собак мелких пород, 40х30х31 см, цвет в ассортименте",
+    "price": 999,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/b0f/b0f0eb6bf3cff5e403e192c4172e5f41.jpg",
+    "catalogId": 15
+  },
+  {
+    "name": "Дом-вигвам для кошек и собак мелких и средних пород, поплин, 40х40х39 см, бежевый",
+    "price": 1299,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/7ab/7ab7ad5e879bbd24276aa2c06ec3a75c.jpg",
+    "catalogId": 15
+  },
+
+  {
+    "name": "Шлейка-стропа для кошек + поводок 1,5м",
+    "price": 349,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/abb/abbeb77752e2025a8680d7b3542f754d.jpg",
+    "catalogId": 16
+  },
+  {
+    "name": "Шлейка с поводком нейлоновые для кошек, 0,8х32 см, длина поводка 120 см, голубой",
+    "price": 459,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/265/2658b3b61751f20af2536615f47061d7.jpg",
+    "catalogId": 16
+  },
+  {
+    "name": "Автомобильный ремень безопасности для кошки 20-50 см",
+    "price": 839,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/f8c/f8cdcce676f026bda99352e8b2e8b4ac.jpg",
+    "catalogId": 16
+  },
+  {
+    "name": "Ошейник для кошек светоотражающий с адресником и колокольчиком 21х2,5 см",
+    "price": 417,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/e49/e49ae18e392242f02cb0ca5cc629cee0.jpg",
+    "catalogId": 16
+  },
+  {
+    "name": "Шлейка для кошек и мелких собак Fantasia, 33-46,5 см, 10 мм",
+    "price": 655  ,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/2e9/2e92485a9df372288fd4416ff46cee35.jpg",
+    "catalogId": 16
+  },
+  {
+    "name": "Шлейка с поводком для кошки Premium, нейлон",
+    "price": 975,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/5e3/5e346a40f1d60033aa86b2eeacab5ee5.jpg",
+    "catalogId": 16
+  },
+  {
+    "name": "Шлейка с поводком для кошек, собак и кроликов Jogging large, A: 20-24 см, B: 26-34 см, 10 мм",
+    "price": 1405,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/ade/adefcbf5db1ac3dec21c9252e62da412.jpg",
+    "catalogId": 16
+  },
+  {
+    "name": "Трекер для животных Doggy",
+    "price": 3990,
+    "icon": "https://4lapy.ru/resize/480x480/upload/iblock/332/332d77525aec2d2f96f2facad934a382.jpg",
+    "catalogId": 16
+  }
+]
+
