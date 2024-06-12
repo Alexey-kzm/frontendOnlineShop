@@ -14,12 +14,12 @@ export const getRefreshToken = () => {
 
 export const saveTokenStorage=(accessToken:string,refreshToken:string) => {
     Cookies.set("accessToken", accessToken,{
-        domain:"localhost",
+        domain:"frontendonlineshop.onrender.com",
         sameSite:"strict",
         expires:1
     });
     Cookies.set("refreshToken", refreshToken,{
-        domain:"localhost",
+        domain:"frontendonlineshop.onrender.com",
         sameSite:"strict",
         expires:30
     });

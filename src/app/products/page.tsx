@@ -136,7 +136,7 @@ export default function productsPage() {
   }
   return (
     <div className="mainPage pt-[10px]">
-      <Card className="w-[1260px] h-12 ml-auto mr-auto mb-[10px] rounded-[15px] flex justify-between p-0">
+      <Card className="w-[1260px] h-12 ml-auto mr-auto mb-[16px] rounded-[15px] flex justify-between p-0">
         <DropdownMenu>
           <DropdownMenuTrigger asChild>
             <Button className="h-12 w-fit text-sm rounded-s-[15px] rounded-e-none flex flex-row font-medium" variant="ghost">
